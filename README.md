@@ -12,8 +12,8 @@ Etter hvert begynner rutene å formere seg, og det blir vakre mønstre som beveg
 
 !!!
 Hvordan bruke:
-
-1. Trykk på de rutene du vil sette som levende ("\*") betyr at ruta lever.
-2. Trykk "Start" for å starte simulasjonen
-3. Trykk "Avslutt" når du er ferdig for å lukke vinduet og avslutte programmet.
+1. Start Main.java
+2. Trykk på de rutene du vil sette som levende ("\*") betyr at ruta lever.
+3. Trykk "Start" for å starte simulasjonen
+4. Trykk "Avslutt" når du er ferdig for å lukke vinduet og avslutte programmet.
 !!!
